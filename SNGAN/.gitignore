@@ -1,0 +1,6 @@
+*.pyc
+data/*
+*.npz
+*.pth
+.vscode/
+.DS_Store
