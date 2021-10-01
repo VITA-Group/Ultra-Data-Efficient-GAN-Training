@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-Code for this paper [Ultra-Data-Efficient GAN Training: Drawing A Lottery Ticket First, Then Training It Toughly](https://arxiv.org/abs/2103.00397). [Preprint]
+Code for this paper [Ultra-Data-Efficient GAN Training: Drawing A Lottery Ticket First, Then Training It Toughly](https://arxiv.org/abs/2103.00397). [NeurIPS'21]
 
 Tianlong Chen, Yu Cheng, Zhe Gan, Jingjing Liu, Zhangyang Wang.
 
